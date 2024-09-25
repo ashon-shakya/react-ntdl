@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-ntdl/static/css/main.f855e6bc.css",
-    "main.js": "/react-ntdl/static/js/main.fafc7e56.js",
+    "main.js": "/react-ntdl/static/js/main.fcc76614.js",
     "static/media/logo.svg": "/react-ntdl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-ntdl/index.html",
     "main.f855e6bc.css.map": "/react-ntdl/static/css/main.f855e6bc.css.map",
-    "main.fafc7e56.js.map": "/react-ntdl/static/js/main.fafc7e56.js.map"
+    "main.fcc76614.js.map": "/react-ntdl/static/js/main.fcc76614.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fafc7e56.js"
+    "static/js/main.fcc76614.js"
   ]
 }
