@@ -65,9 +65,7 @@ export default function MyForm({ updatePhoneList }) {
                     onChange={handleInputChange}
                     value={inputObject.email}
                 />
-                <button type="submit" onClick={customFunction("TEST")}>
-                    Submit
-                </button>
+                <button type="submit">Submit</button>
             </form>
         </div>
     );
